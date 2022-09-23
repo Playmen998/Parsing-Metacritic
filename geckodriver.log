@@ -1,0 +1,264 @@
+1663090373872	geckodriver	INFO	Listening on 127.0.0.1:57113
+1663090506724	geckodriver	INFO	Listening on 127.0.0.1:57195
+1663090509786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lavru\\AppData\\Local\\Temp\\rust_mozprofilecGwvRV"
+1663090510605	Marionette	INFO	Marionette enabled
+1663090510614	Marionette	INFO	Listening on port 57206
+WebDriver BiDi listening on ws://localhost:57196
+Read port: 57206
+1663090510815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lavru\\AppData\\Local\\Temp\\rust_mozprofilecGwvRV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57196/devtools/browser/9425920b-5f7f-4a88-9a81-c177719df69b
+JavaScript warning: https://www.metacritic.com/js/global_alt.min.1654553316.js, line 45: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript warning: https://www.metacritic.com/js/global_alt.min.1654553316.js, line 45: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript warning: https://www.metacritic.com/js/global_alt.min.1654553316.js, line 45: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript warning: https://www.metacritic.com/js/global_alt.min.1654553316.js, line 45: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript error: https://cdn.cohesionapps.com/cohesion/xs1.html, line 1: NS_ERROR_UNEXPECTED: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090529850	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/cbs_zQTp2H_metacritic.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/cbs_zQTp2H_metacritic.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090553839	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1663090553916	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.20.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090558053	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090561616	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090569053	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/cbs_zQTp2H_metacritic.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090573139	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090579179	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090581007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663090587185	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 43504, MediaDecoderStateMachine #1] WARNING: Decoder=2808d4c0100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 43504, MediaDecoderStateMachine #1] WARNING: Decoder=2808d4c0100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/cbs_zQTp2H_metacritic.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.20.0/otBannerSdk.js, line 7: TypeError: s is undefined
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090601610	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090602955	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.20.0/otBannerSdk.js, line 7: TypeError: s is undefined
+1663090604923	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090607657	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.20.0/otBannerSdk.js, line 7: TypeError: s is undefined
+1663090610609	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090613130	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090616326	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090620150	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090623348	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.20.0/otBannerSdk.js, line 7: TypeError: s is undefined
+1663090625427	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090627722	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090630133	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.20.0/otBannerSdk.js, line 7: TypeError: s is undefined
+1663090632047	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090635237	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090639735	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.20.0/otBannerSdk.js, line 7: TypeError: s is undefined
+1663090642699	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090650642	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090653520	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090655642	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090688686	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090696283	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090698687	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.20.0/otBannerSdk.js, line 7: TypeError: s is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090718498	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090720735	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090721824	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JI0Pcydj_YJwFyiv8pAtPmsHnnPx6gDBxLt0n0XpIm8.js line 2 > eval line 6790 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663090993018	Marionette	INFO	Stopped listening on port 57206
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663103592804	geckodriver	INFO	Listening on 127.0.0.1:60619
+1663103595961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lavru\\AppData\\Local\\Temp\\rust_mozprofile8a4jv0"
+1663103597054	Marionette	INFO	Marionette enabled
+1663103597060	Marionette	INFO	Listening on port 60631
+WebDriver BiDi listening on ws://localhost:60620
+Read port: 60631
+1663103597398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lavru\\AppData\\Local\\Temp\\rust_mozprofile8a4jv0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60620/devtools/browser/648f9ea9-2fba-4e96-9860-9ce6411995f0
+JavaScript warning: https://www.metacritic.com/js/global_alt.min.1654553316.js, line 45: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663103604734	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.metacritic.com/js/global_alt.min.1654553316.js, line 45: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+JavaScript warning: https://www.metacritic.com/js/global_alt.min.1654553316.js, line 45: unreachable code after return statement
+JavaScript warning: https://www.metacritic.com/js/global_alt.min.1654553316.js, line 45: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.metacritic.com."
+1663103615116	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.metacritic.com/js/global.min.1654553316.js, line 263: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/redventuresgamheader644747280705/moatheader.js, line 294: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663103631779	Marionette	INFO	Stopped listening on port 60631
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
